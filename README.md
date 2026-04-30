@@ -1,6 +1,6 @@
 # Hi, I'm Jarle
 
-2nd-year Cybersecurity student in Oslo · Passionate about system security, SOC & DevOps · Building toward an MSc
+2nd-year Cybersecurity student in Oslo - Passionate about system security, SOC & DevOps - Building toward an MSc
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -11,13 +11,17 @@
 - Network Security & Penetration Testing
 
 ## Tools & Technologies
-- Languages: C (ANSI), Python, Bash  
+- Languages: Java, C (ANSI), Python, JavaScript (SQL, HTML, CSS) 
 - Security tools: Nmap, Burp Suite, OWASP ZAP, SQLMap, Wireshark, GDB  
-- Platforms: TryHackMe (SOC Level 1), Linux, Active Directory  
-- Concepts: Algorithms & Data Structures, Network Services, Vulnerability Assessment
+- Platforms: TryHackMe (SOC Level 1), Linux, Active Directory, Codecademy
+- Concepts: Object Oriented Programming, Algorithms & Data Structures, Network Services, Vulnerability Assessment
 
 ## Currently
 -  Studying Cybersecurity at Kristiania University College
+-  Further development in math subjects (courses)
+    -  Linear Algebra
+    -  Discrete Mathematics
+    -  Probability & Statistics
 -  Working toward CompTIA Security+ and CySA+
 -  Applying for MSc programs in Cybersecurity
 
