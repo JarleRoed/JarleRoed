@@ -2,7 +2,7 @@
 
 2nd-year Cybersecurity student in Oslo - Passionate about system security, SOC & DevOps - Building toward an MSc
 
-----------------------------------------------------------------------------------------------------------------
+
 
 ## Focus Areas
 - System Security & Secure Development
