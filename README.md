@@ -1,6 +1,6 @@
 # Hi, I'm Jarle
 
-2nd-year Cybersecurity student in Oslo - Passionate about system security, SOC & DevOps - Building toward an MSc
+3nd-year Cybersecurity student in Oslo - Passionate about system security, SOC & DevOps - Building toward an MSc
 
 
 
